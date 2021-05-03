@@ -1,0 +1,24 @@
+{
+  "name": "nepse_historical_data",
+  "version": "1.0.0",
+  "description": "using npm package to get historical NEPSE data.",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/tcg02/nepse_historical_data.git"
+  },
+  "keywords": [
+    "NEPSE",
+    "NEPAL STOCK EXCHANGE",
+    "STOCK FEED"
+  ],
+  "author": "SDahal",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/tcg02/nepse_historical_data/issues"
+  },
+  "homepage": "https://github.com/tcg02/nepse_historical_data#readme"
+}

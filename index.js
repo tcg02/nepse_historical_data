@@ -1,3 +1,4 @@
-const greeter = require('nepse-data-module')
+const {getIndex} = require('nepse-data-module')
 
-console.log(greeter("Santosh"));
+
+console.log(getIndex('2021-04-15','2021-04-30'));
